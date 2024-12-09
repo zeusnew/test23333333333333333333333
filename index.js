@@ -19,7 +19,7 @@ const axios = require('axios')
 const { File } = require('megajs')
 const prefix = '.'
 
-const ownerNumber = ['94742274855']
+const ownerNumber = ['94703756809']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/CHAMI_MD/creds.json')) {
