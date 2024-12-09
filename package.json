@@ -27,6 +27,8 @@
     "moment-timezone": "latest",
     "api-dylux" : "1.8.5",
     "yt-search" : "2.11.1",
+    "pixaldrain-sinhalasub": "git+https://github.com/DarkMakerofc/pixaldrain-sinhalasub.git",
+    "@sl-code-lords/movie-api":"1.0.0",
     "file_size_url": "^1.0.4",
     "@dark-yasiya/yt-dl.js": "latest"
 
